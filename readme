@@ -1,0 +1,56 @@
+# Site-GameTech
+Site para venda de PCs gamers montados, com design responsivo e funcionalidades como portfólio, FAQ e depoimentos de clientes
+
+
+🌟 Funcionalidades do Site
+
+Seção Hero: Apresentação visual do site com destaque para a marca GameTech.
+
+Sobre: Informações detalhadas sobre a loja, incluindo serviços de montagem e entrega de PCs gamers.
+
+Portfólio: Galeria com os modelos de PCs disponíveis, especificações técnicas e preços.
+
+Ranking de PCs: Lista dos PCs gamers mais poderosos, com detalhes de hardware e preços.
+
+Depoimentos: Feedback de clientes satisfeitos com os produtos e serviços da GameTech.
+
+Perguntas Frequentes (FAQ): Respostas para as dúvidas mais comuns dos clientes.
+
+Formulário de Contato: Permite que os usuários entrem em contato diretamente com a loja.
+
+🛠️ Tecnologias Utilizadas
+
+HTML5: Estrutura do site.
+
+CSS3: Estilização e design responsivo.
+
+JavaScript (jQuery): Funcionalidades interativas.
+
+Font Awesome: Ícones para redes sociais e elementos visuais.
+
+Google Fonts: Tipografia personalizada para um design moderno.
+
+📂 Estrutura do Projeto
+
+index.html: Página principal do site.
+
+css/style.css: Arquivo de estilos para o layout e design.
+
+script/script.js: Scripts para funcionalidades interativas.
+
+img: Diretório com imagens utilizadas no site.
+
+
+📋 Destaques
+
+PCs gamers com especificações de alto desempenho, como processadores Intel e AMD, placas de vídeo NVIDIA RTX e armazenamento SSD de alta capacidade.
+
+Design responsivo, garantindo uma ótima experiência em dispositivos móveis e desktops.
+
+Foco na experiência do usuário, com navegação intuitiva e informações claras.
+
+📞 Contato
+
+Desenvolvedor: Matheus Henrique
+E-mail: matheushenriquenunes2907@gmail.com
+Telefone: +55 12 98855-8196
